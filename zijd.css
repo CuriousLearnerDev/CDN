@@ -1,11 +1,11 @@
 /*鼠标美化*/
 body {
-    cursor: url(https://cdn.jsdelivr.net/gh/wzass/CDN/default.cur),
+    cursor: url(https://cdn.jsdelivr.net/gh/wzass/zp/default.cur),
         default;
 }
 a,
 img {
-    cursor: url(https://cdn.jsdelivr.net/gh/wzass/CDN/pointer.cur),
+    cursor: url(https://cdn.jsdelivr.net/gh/wzass/zp/pointer.cur),
         default;
 }
 /*-------------------------------------------------------------------*/
@@ -40,7 +40,7 @@ img {
 /* 自定义字体 */
 @font-face {
     font-family: 'sleek';
-    src: url('https://cdn.jsdelivr.net/gh/lete114/CDN2/zaxiang/sleek.woff2');
+    src: url('https://cdn.jsdelivr.net/gh/wzass/zp/sleek.woff2');
 }
 /*-------------------------------------------------------------------*/
 
