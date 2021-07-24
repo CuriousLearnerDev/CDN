@@ -11,3 +11,8 @@ macblack.css==========自己的代码显示
 # JS文件介绍
 
 sakura.js==========樱花特效
+
+
+cdn加速
+
+https://cdn.jsdelivr.net/gh/
