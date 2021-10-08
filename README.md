@@ -1,18 +1,13 @@
-# 这个是我CDN加速用的
+#文件说明
+## CSS文件介绍
+自己配置css：zijd.css
+图标：iconfont.css
+代码的配置：macblack.css
+
+## JS文件介绍
+
+樱花特效：sakura.js
+
+cdn加速：https://cdn.jsdelivr.net/gh/
 
 
-# CSS文件介绍
-zijd.css======自己的css
-
-iconfont.css=========自己的图标
-
-macblack.css==========自己的代码显示
-
-# JS文件介绍
-
-sakura.js==========樱花特效
-
-
-cdn加速
-
-https://cdn.jsdelivr.net/gh/
